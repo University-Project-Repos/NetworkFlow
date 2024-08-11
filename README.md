@@ -14,7 +14,7 @@ constraints `X >= Z > 0`, `Y > 2`.
 
 ## Requirements
 
-* [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) to formulate optimal network flow solutions for generating LP files.
+* [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) to formulate optimal network flow solutions using generated LP files.
 
 ## Run
 
